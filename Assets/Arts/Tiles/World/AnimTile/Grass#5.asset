@@ -10,10 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: World
+  m_Name: Grass#5
   m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
   m_AnimatedSprites:
-  - {fileID: 0}
+  - {fileID: 1376194532, guid: d7a49df88778f9546aa3ce093065e3c3, type: 3}
+  - {fileID: -635867861, guid: d7a49df88778f9546aa3ce093065e3c3, type: 3}
+  - {fileID: -1122866034, guid: d7a49df88778f9546aa3ce093065e3c3, type: 3}
+  - {fileID: -179279976, guid: d7a49df88778f9546aa3ce093065e3c3, type: 3}
   m_MinSpeed: 1
   m_MaxSpeed: 1
   m_AnimationStartTime: 0
