@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 52150af836639364e95b0ce884ffed8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -124107402686264099
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_0"
+  - first:
+      213: 1255693705524019262
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_1"
+  - first:
+      213: -440344130899177293
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_2"
+  - first:
+      213: 7264796546859664353
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_3"
+  - first:
+      213: -4630932873943905216
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_4"
+  - first:
+      213: -2201052765314829202
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_5"
+  - first:
+      213: 9175721358591954548
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_6"
+  - first:
+      213: 8028328699913036296
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_7"
+  - first:
+      213: -2008831823599886580
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_8"
+  - first:
+      213: -7470400464152413529
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_9"
+  - first:
+      213: 4831321769937281404
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_10"
+  - first:
+      213: 2433309622954455775
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_11"
+  - first:
+      213: 7563311184629741926
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_12"
+  - first:
+      213: 1156008530540354295
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_13"
+  - first:
+      213: -3832136676642580383
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_14"
+  - first:
+      213: 1318057406304630701
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_15"
+  - first:
+      213: 2477826895398830450
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_16"
+  - first:
+      213: -737381938189263564
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_17"
+  - first:
+      213: -1561053390752661648
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_18"
+  - first:
+      213: 920930670313369665
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_19"
+  - first:
+      213: -707665066729752483
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_20"
+  - first:
+      213: 1359240409907856013
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_21"
+  - first:
+      213: 1571900828367186554
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_22"
+  - first:
+      213: -407443487333873485
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_23"
+  - first:
+      213: 8565944033851723509
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_24"
+  - first:
+      213: -5396837729582099641
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_25"
+  - first:
+      213: 2643305735469349311
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_26"
+  - first:
+      213: -2798920720251455054
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_27"
+  - first:
+      213: 1019489237005228513
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_28"
+  - first:
+      213: 483895366641100287
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_29"
+  - first:
+      213: 9123759080240231473
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_30"
+  - first:
+      213: -8795664215532859243
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_31"
+  - first:
+      213: 4011362075462448879
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_32"
+  - first:
+      213: -5017911691041608180
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_33"
+  - first:
+      213: 6822855377576109545
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_34"
+  - first:
+      213: -5734502108639936864
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_35"
+  - first:
+      213: 7392603942860943167
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_36"
+  - first:
+      213: -949669195758228889
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_37"
+  - first:
+      213: -8906895789738861910
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_38"
+  - first:
+      213: -4995747457212742526
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_39"
+  - first:
+      213: 5728549963414781782
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_40"
+  - first:
+      213: 8692310000246428050
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_41"
+  - first:
+      213: -3012751256655196666
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_42"
+  - first:
+      213: 6471118982804389683
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_43"
+  - first:
+      213: -8779043442078068785
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_44"
+  - first:
+      213: -2485291600535560997
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_45"
+  - first:
+      213: -4421523541563479491
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_46"
+  - first:
+      213: -9186988470467890101
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_47"
+  - first:
+      213: -6082141591540783250
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_48"
+  - first:
+      213: -8534135832930449844
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_49"
+  - first:
+      213: -3140747971841134578
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_50"
+  - first:
+      213: 1634282069895980818
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_51"
+  - first:
+      213: -2194969464178617698
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_52"
+  - first:
+      213: 5310801158620812095
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_53"
+  - first:
+      213: -7105788144408969804
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_54"
+  - first:
+      213: -1127550064824035335
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_55"
+  - first:
+      213: -3442771257233758759
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_56"
+  - first:
+      213: 148455956332629344
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_57"
+  - first:
+      213: -8213030247770512018
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_58"
+  - first:
+      213: 5215036726677170359
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_59"
+  - first:
+      213: 6707899678424026764
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_60"
+  - first:
+      213: -6828381644513714128
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_61"
+  - first:
+      213: -8471828750976061141
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_62"
+  - first:
+      213: -462255820037252688
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_63"
+  - first:
+      213: 8871473304019192511
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_64"
+  - first:
+      213: 1760480800548022479
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_65"
+  - first:
+      213: -284733337355875330
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_66"
+  - first:
+      213: -7057436825963613205
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_67"
+  - first:
+      213: -1872854707666308456
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_68"
+  - first:
+      213: -1374550323000150816
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_69"
+  - first:
+      213: 6558843406842016556
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_70"
+  - first:
+      213: 1139095985482807835
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_71"
+  - first:
+      213: -6664425530517807909
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_72"
+  - first:
+      213: -2303861641504242826
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_73"
+  - first:
+      213: -6657261757666001165
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_74"
+  - first:
+      213: 4077792485618469490
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_75"
+  - first:
+      213: 3895712494156077260
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_76"
+  - first:
+      213: 2324518968801778833
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_77"
+  - first:
+      213: 1416023903900911561
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_78"
+  - first:
+      213: 8523423489167936031
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_79"
+  - first:
+      213: -581534798386982260
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_80"
+  - first:
+      213: 4553584715077620105
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_81"
+  - first:
+      213: -8641967594139645602
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_82"
+  - first:
+      213: 48255245492692751
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_83"
+  - first:
+      213: 2229977204926183897
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_84"
+  - first:
+      213: -5821522774696484553
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_85"
+  - first:
+      213: 803494556005819683
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_86"
+  - first:
+      213: 3183343988871836208
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_87"
+  - first:
+      213: -67824771943270532
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_88"
+  - first:
+      213: 3248583983928344324
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_89"
+  - first:
+      213: -7005328855883779108
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_90"
+  - first:
+      213: 5245970765801478302
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_91"
+  - first:
+      213: -6748599481707144418
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_92"
+  - first:
+      213: -2055414662487148213
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_93"
+  - first:
+      213: -5764599584676680971
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_94"
+  - first:
+      213: -8156104882379792465
+    second: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_95"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc83ec89f4174ef0800000000000000
+      internalID: -124107402686264099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300470b5ce1d6110800000000000000
+      internalID: 1255693705524019262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b093d2985593e9f0800000000000000
+      internalID: -440344130899177293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 368
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e30e0508fdb1d460800000000000000
+      internalID: 7264796546859664353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c05ed361f9bbfb0800000000000000
+      internalID: -4630932873943905216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b48feb2a4471e0800000000000000
+      internalID: -2201052765314829202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e86d8e5f5b65f70800000000000000
+      internalID: 9175721358591954548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 368
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802e36aaa6a5a6f60800000000000000
+      internalID: 8028328699913036296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f14d489123f14e0800000000000000
+      internalID: -2008831823599886580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa38449b5ec35890800000000000000
+      internalID: -7470400464152413529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7129b46d8d4c0340800000000000000
+      internalID: 4831321769937281404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27db8b53ad4c120800000000000000
+      internalID: 2433309622954455775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6693895437746f860800000000000000
+      internalID: 7563311184629741926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fadd2c32a7fa0010800000000000000
+      internalID: 1156008530540354295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 352
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16819f10ff381dac0800000000000000
+      internalID: -3832136676642580383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 336
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da73c584a3eaa4210800000000000000
+      internalID: 1318057406304630701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271082bee62036220800000000000000
+      internalID: 2477826895398830450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9076b80b44c5f0800000000000000
+      internalID: -737381938189263564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb4c04636065ae0800000000000000
+      internalID: -1561053390752661648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407acab09dc7cc00800000000000000
+      internalID: 920930670313369665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58be950f5edd26f0800000000000000
+      internalID: -707665066729752483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d820ae483fdfcd210800000000000000
+      internalID: 1359240409907856013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae7f0a97380d510800000000000000
+      internalID: 1571900828367186554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 304
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80b679e48785af0800000000000000
+      internalID: -407443487333873485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fecb97e6b850e670800000000000000
+      internalID: 8565944033851723509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74355d9bda49a15b0800000000000000
+      internalID: -5396837729582099641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb93763cf88eea420800000000000000
+      internalID: 2643305735469349311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97eea2f6c3829d0800000000000000
+      internalID: -2798920720251455054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d7004f04f52e00800000000000000
+      internalID: 1019489237005228513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a91da54427b600800000000000000
+      internalID: 483895366641100287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 272
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134b6f13b8a1e9e70800000000000000
+      internalID: 9123759080240231473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5909c855ff58fe580800000000000000
+      internalID: -8795664215532859243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6b965fd883ba730800000000000000
+      internalID: 4011362075462448879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 240
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e6f2d27ebcc5ab0800000000000000
+      internalID: -5017911691041608180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5a94e11d6afae50800000000000000
+      internalID: 6822855377576109545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 239
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb9c207b4fa60b0800000000000000
+      internalID: -5734502108639936864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fe06b4e1ec79660800000000000000
+      internalID: 7392603942860943167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 256
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a23b4e5e812d2f0800000000000000
+      internalID: -949669195758228889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa51315879546480800000000000000
+      internalID: -8906895789738861910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_39"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 239
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840641082a8baab0800000000000000
+      internalID: -4995747457212742526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_40"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3a6f27d5ef7f40800000000000000
+      internalID: 5728549963414781782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_41"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291934234e941a870800000000000000
+      internalID: 8692310000246428050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_42"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e847eb1be8036d0800000000000000
+      internalID: -3012751256655196666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_43"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 207
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fb75ded680ec950800000000000000
+      internalID: 6471118982804389683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_44"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 224
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfc637b0829a2680800000000000000
+      internalID: -8779043442078068785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_45"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 209
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd0daf478728dd0800000000000000
+      internalID: -2485291600535560997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_46"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ae413e3c793a2c0800000000000000
+      internalID: -4421523541563479491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_47"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 207
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f62e29a2418080800000000000000
+      internalID: -9186988470467890101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_48"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6725927274e79ba0800000000000000
+      internalID: -6082141591540783250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_49"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c468f3dfca8a09980800000000000000
+      internalID: -8534135832930449844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_50"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0071692c52d964d0800000000000000
+      internalID: -3140747971841134578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_51"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217a0fe32e22ea610800000000000000
+      internalID: 1634282069895980818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_52"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ddcad6e6e981e0800000000000000
+      internalID: -2194969464178617698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_53"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3393541481c3b940800000000000000
+      internalID: 5310801158620812095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_54"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd325ba45b236d90800000000000000
+      internalID: -7105788144408969804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_55"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7d1b7a0332a50f0800000000000000
+      internalID: -1127550064824035335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_56"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d528a938c1d830d0800000000000000
+      internalID: -3442771257233758759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_57"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4ffdd7eb6f0200800000000000000
+      internalID: 148455956332629344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_58"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a9101184750e80800000000000000
+      internalID: -8213030247770512018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_59"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 159
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86530c5488f5840800000000000000
+      internalID: 5215036726677170359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_60"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ecb61b73f371d50800000000000000
+      internalID: 6707899678424026764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_61"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 144
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03066f79217bc31a0800000000000000
+      internalID: -6828381644513714128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_62"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21712cf2a40e6a80800000000000000
+      internalID: -8471828750976061141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_63"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 159
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99253e7ccb599f0800000000000000
+      internalID: -462255820037252688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbacc6887fdcd1b70800000000000000
+      internalID: 8871473304019192511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_65"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc86f8ee5fb7e6810800000000000000
+      internalID: 1760480800548022479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_66"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb013bc98c6c0cf0800000000000000
+      internalID: -284733337355875330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_67"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3bda34992fe0e90800000000000000
+      internalID: -7057436825963613205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_68"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892b1a1f0984206e0800000000000000
+      internalID: -1872854707666308456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_69"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47daf83cd9cece0800000000000000
+      internalID: -1374550323000150816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_70"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233b3a0451b50b50800000000000000
+      internalID: 6558843406842016556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_71"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab6cb73c1eecf00800000000000000
+      internalID: 1139095985482807835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_72"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc11752a443383a0800000000000000
+      internalID: -6664425530517807909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_73"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673cd7e1b0a0700e0800000000000000
+      internalID: -2303861641504242826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_74"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe768df3b7ac93a0800000000000000
+      internalID: -6657261757666001165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_75"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27acb0d19aa379830800000000000000
+      internalID: 4077792485618469490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_76"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc859318fd9501630800000000000000
+      internalID: 3895712494156077260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_77"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5611bfa9524020800000000000000
+      internalID: 2324518968801778833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_78"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 80
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7c979fc3ab6a310800000000000000
+      internalID: 1416023903900911561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_79"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a431e1188494670800000000000000
+      internalID: 8523423489167936031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c829d959e29fde7f0800000000000000
+      internalID: -581534798386982260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_81"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98199d42c25913f30800000000000000
+      internalID: 4553584715077620105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_82"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598ede9240911880800000000000000
+      internalID: -8641967594139645602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_83"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 33
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07242ed3ef6ba000800000000000000
+      internalID: 48255245492692751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_84"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9f7d4f37872fe10800000000000000
+      internalID: 2229977204926183897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_85"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731ae5251ebc53fa0800000000000000
+      internalID: -5821522774696484553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_86"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325efa5aa06962b00800000000000000
+      internalID: 803494556005819683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_87"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b496ed728d2c20800000000000000
+      internalID: 3183343988871836208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_88"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c777951bab90f0ff0800000000000000
+      internalID: -67824771943270532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_89"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7211fbe9451d20800000000000000
+      internalID: 3248583983928344324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_90"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3f04a758218ce90800000000000000
+      internalID: -7005328855883779108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_91"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985eadfd9e6dc840800000000000000
+      internalID: 5245970765801478302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_92"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd579e6882852a0800000000000000
+      internalID: -6748599481707144418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_93"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49f2582143b973e0800000000000000
+      internalID: -2055414662487148213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_94"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6bfa48370000b0800000000000000
+      internalID: -5764599584676680971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_95"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5ce682d1bfce80800000000000000
+      internalID: -8156104882379792465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_0": -124107402686264099
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_1": 1255693705524019262
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_10": 4831321769937281404
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_11": 2433309622954455775
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_12": 7563311184629741926
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_13": 1156008530540354295
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_14": -3832136676642580383
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_15": 1318057406304630701
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_16": 2477826895398830450
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_17": -737381938189263564
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_18": -1561053390752661648
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_19": 920930670313369665
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_2": -440344130899177293
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_20": -707665066729752483
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_21": 1359240409907856013
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_22": 1571900828367186554
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_23": -407443487333873485
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_24": 8565944033851723509
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_25": -5396837729582099641
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_26": 2643305735469349311
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_27": -2798920720251455054
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_28": 1019489237005228513
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_29": 483895366641100287
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_3": 7264796546859664353
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_30": 9123759080240231473
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_31": -8795664215532859243
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_32": 4011362075462448879
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_33": -5017911691041608180
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_34": 6822855377576109545
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_35": -5734502108639936864
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_36": 7392603942860943167
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_37": -949669195758228889
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_38": -8906895789738861910
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_39": -4995747457212742526
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_4": -4630932873943905216
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_40": 5728549963414781782
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_41": 8692310000246428050
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_42": -3012751256655196666
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_43": 6471118982804389683
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_44": -8779043442078068785
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_45": -2485291600535560997
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_46": -4421523541563479491
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_47": -9186988470467890101
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_48": -6082141591540783250
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_49": -8534135832930449844
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_5": -2201052765314829202
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_50": -3140747971841134578
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_51": 1634282069895980818
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_52": -2194969464178617698
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_53": 5310801158620812095
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_54": -7105788144408969804
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_55": -1127550064824035335
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_56": -3442771257233758759
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_57": 148455956332629344
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_58": -8213030247770512018
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_59": 5215036726677170359
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_6": 9175721358591954548
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_60": 6707899678424026764
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_61": -6828381644513714128
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_62": -8471828750976061141
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_63": -462255820037252688
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_64": 8871473304019192511
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_65": 1760480800548022479
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_66": -284733337355875330
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_67": -7057436825963613205
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_68": -1872854707666308456
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_69": -1374550323000150816
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_7": 8028328699913036296
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_70": 6558843406842016556
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_71": 1139095985482807835
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_72": -6664425530517807909
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_73": -2303861641504242826
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_74": -6657261757666001165
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_75": 4077792485618469490
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_76": 3895712494156077260
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_77": 2324518968801778833
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_78": 1416023903900911561
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_79": 8523423489167936031
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_8": -2008831823599886580
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_80": -581534798386982260
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_81": 4553584715077620105
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_82": -8641967594139645602
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_83": 48255245492692751
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_84": 2229977204926183897
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_85": -5821522774696484553
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_86": 803494556005819683
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_87": 3183343988871836208
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_88": -67824771943270532
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_89": 3248583983928344324
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_9": -7470400464152413529
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_90": -7005328855883779108
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_91": 5245970765801478302
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_92": -6748599481707144418
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_93": -2055414662487148213
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_94": -5764599584676680971
+      "Scrapper \u2013 \u043A\u043E\u043F\u0456\u044F_95": -8156104882379792465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
