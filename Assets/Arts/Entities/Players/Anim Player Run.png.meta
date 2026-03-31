@@ -297,9 +297,9 @@ TextureImporter:
       name: Anim Player Run_4
       rect:
         serializedVersion: 2
-        x: 1
+        x: 2
         y: 97
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -341,9 +341,9 @@ TextureImporter:
       name: Anim Player Run_6
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 97
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -495,9 +495,9 @@ TextureImporter:
       name: Anim Player Run_13
       rect:
         serializedVersion: 2
-        x: 18
+        x: 19
         y: 65
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -539,9 +539,9 @@ TextureImporter:
       name: Anim Player Run_15
       rect:
         serializedVersion: 2
-        x: 50
+        x: 51
         y: 65
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -649,9 +649,9 @@ TextureImporter:
       name: Anim Player Run_20
       rect:
         serializedVersion: 2
-        x: 1
+        x: 2
         y: 33
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -693,9 +693,9 @@ TextureImporter:
       name: Anim Player Run_22
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 33
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -847,9 +847,9 @@ TextureImporter:
       name: Anim Player Run_29
       rect:
         serializedVersion: 2
-        x: 17
+        x: 19
         y: 1
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -891,9 +891,9 @@ TextureImporter:
       name: Anim Player Run_31
       rect:
         serializedVersion: 2
-        x: 49
+        x: 51
         y: 1
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

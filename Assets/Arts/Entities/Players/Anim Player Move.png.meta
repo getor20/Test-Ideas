@@ -341,9 +341,9 @@ TextureImporter:
       name: Anim Player Move_6
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 97
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -473,9 +473,9 @@ TextureImporter:
       name: Anim Player Move_12
       rect:
         serializedVersion: 2
-        x: 2
+        x: 3
         y: 65
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -693,9 +693,9 @@ TextureImporter:
       name: Anim Player Move_22
       rect:
         serializedVersion: 2
-        x: 33
+        x: 34
         y: 33
-        width: 13
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -825,9 +825,9 @@ TextureImporter:
       name: Anim Player Move_28
       rect:
         serializedVersion: 2
-        x: 1
+        x: 3
         y: 1
-        width: 14
+        width: 11
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
