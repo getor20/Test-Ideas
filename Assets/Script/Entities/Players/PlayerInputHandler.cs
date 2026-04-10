@@ -1,16 +1,14 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerInputHandler : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [SerializeField] private PlayerMover _playerMover;
+    public void OnMove(InputAction.CallbackContext context)
     {
-        
-    }
+        var inputVector = context.ReadValue<Vector2>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        _playerMover.SetDirection(inputVector);
+
     }
 }
