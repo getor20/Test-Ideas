@@ -2,11 +2,16 @@ using UnityEngine;
 
 public class PlayerMover : MonoBehaviour
 {
-    [SerializeField] private float _speed = 5f;
+    [SerializeField] private float _walkSpeed = 5f;
+    [SerializeField] private float _runSpeed = 8f;
 
     private Rigidbody2D _rigidBody;
 
     private Vector2 _direction;
+
+    private bool _isRunning;
+
+    public Vector2 CurrentSpeed => _direction;
 
     private void Awake()
     {
@@ -23,8 +28,14 @@ public class PlayerMover : MonoBehaviour
         _direction = direction;
     }
 
+    public void SetRunning(bool isRunning)
+    {
+        _isRunning = isRunning;
+    }
+
     private void Muve()
     {
-        _rigidBody.linearVelocity = _direction * _speed;
+        float speed = _isRunning ? _runSpeed : _walkSpeed;
+        _rigidBody.linearVelocity = _direction * speed;
     }
 }
