@@ -206,7 +206,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Anim Player Move_0
+      name: Anim Player Walk_0
       rect:
         serializedVersion: 2
         x: 2
@@ -221,14 +221,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e571c196b8f7a2b4aa330b1a361e6bcd
-      internalID: -944056828
+      spriteID: 8b941e9b7c4d3d945b29c3e233c3adce
+      internalID: 1045323785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_1
+      name: Anim Player Walk_1
       rect:
         serializedVersion: 2
         x: 17
@@ -243,14 +243,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab22d4c879eec0148b23664393eb25d1
-      internalID: -1221091204
+      spriteID: f64e858adba553647a8eacafc7cdc19d
+      internalID: -599621423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_2
+      name: Anim Player Walk_2
       rect:
         serializedVersion: 2
         x: 34
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f862ac2ec99a61649bd3ebcfe8bbf294
-      internalID: 22602092
+      spriteID: a014d1c009214bd4383b39659df61ec0
+      internalID: -1074711796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_3
+      name: Anim Player Walk_3
       rect:
         serializedVersion: 2
         x: 49
@@ -287,14 +287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a588363eb13d26b4a90db042a062ddb2
-      internalID: 1728405673
+      spriteID: d86995bde5627cb43bf890bd662c05b3
+      internalID: 439852350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_4
+      name: Anim Player Walk_4
       rect:
         serializedVersion: 2
         x: 2
@@ -309,14 +309,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0522c1bc37f69645830ea5eb50bc664
-      internalID: 473661696
+      spriteID: e458f9b6f37da864988fd6244888f856
+      internalID: -565049720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_5
+      name: Anim Player Walk_5
       rect:
         serializedVersion: 2
         x: 18
@@ -331,19 +331,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3af4a2fbdafaa3429ea694fc01290e0
-      internalID: -832312546
+      spriteID: da356a2f429888a42aa9e40a56ad0eef
+      internalID: -1045029814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_6
+      name: Anim Player Walk_6
       rect:
         serializedVersion: 2
-        x: 34
+        x: 33
         y: 97
-        width: 11
+        width: 14
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -353,14 +353,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c596df0f774ca4693c420b4d81bc72
-      internalID: -662226472
+      spriteID: 64de7e104f990364f828ce52c372d1f3
+      internalID: 719061797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_7
+      name: Anim Player Walk_7
       rect:
         serializedVersion: 2
         x: 50
@@ -375,14 +375,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33cadb8940cee99429cb154f610e02a2
-      internalID: 133633847
+      spriteID: d597352c3aa952e4683f745c76ebfcea
+      internalID: 1147077155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_8
+      name: Anim Player Walk_8
       rect:
         serializedVersion: 2
         x: 2
@@ -397,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e55f0bee0bf8bd84fa10d42d9dfa4678
-      internalID: -5870524
+      spriteID: 8ea6f1100b4d0234b9b6ea58542f113a
+      internalID: 445591906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_9
+      name: Anim Player Walk_9
       rect:
         serializedVersion: 2
         x: 18
@@ -419,14 +419,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c01085c6f74fac4a8afeb4586aef2ef
-      internalID: 683220428
+      spriteID: e4ecd480c3fb2f44ab7ea4632a67832d
+      internalID: -1142486214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_10
+      name: Anim Player Walk_10
       rect:
         serializedVersion: 2
         x: 34
@@ -441,14 +441,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5449eebdf559b6240a24a9905b5bef67
-      internalID: -418570597
+      spriteID: 57585ac742ce6654da492927034ffe82
+      internalID: 1745320316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_11
+      name: Anim Player Walk_11
       rect:
         serializedVersion: 2
         x: 50
@@ -463,19 +463,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d4d1c74e3a6c3a4ab184e9bdee119ac
-      internalID: 214571956
+      spriteID: db5bfa94a5c79984ea60df7c0af2923e
+      internalID: -369976427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_12
+      name: Anim Player Walk_12
       rect:
         serializedVersion: 2
-        x: 3
+        x: 2
         y: 65
-        width: 11
+        width: 13
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -485,14 +485,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50d6261a519ed8046960a5bf9b9fedf7
-      internalID: 1779668883
+      spriteID: 4602dbbb5f51399488c8ea97c4d077a4
+      internalID: -738078739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_13
+      name: Anim Player Walk_13
       rect:
         serializedVersion: 2
         x: 18
@@ -507,14 +507,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54c613e8504cb544f9859b518b861c4e
-      internalID: -802098537
+      spriteID: b2e1c014b58a61845b9a725b724b8d1f
+      internalID: 1682157370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_14
+      name: Anim Player Walk_14
       rect:
         serializedVersion: 2
         x: 34
@@ -529,14 +529,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4468407c6e039443a872bd9a3ff703b
-      internalID: 54589632
+      spriteID: 598d0863cfd74be4d9d7180d5bab411a
+      internalID: -2144446031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_15
+      name: Anim Player Walk_15
       rect:
         serializedVersion: 2
         x: 50
@@ -551,14 +551,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a66ac95a551813f44ae8d31a2488991d
-      internalID: -1012284191
+      spriteID: 4ce7a7231893ccb4f9569b2ca2c5bf5c
+      internalID: -932239044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_16
+      name: Anim Player Walk_16
       rect:
         serializedVersion: 2
         x: 2
@@ -573,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00cd526821bb65e44bb0233e06d02e8d
-      internalID: 2003695526
+      spriteID: 9138f33cd2205474592533775cb5b4c6
+      internalID: -1969638404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_17
+      name: Anim Player Walk_17
       rect:
         serializedVersion: 2
         x: 17
@@ -595,14 +595,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad47ab2007b05d4e839303712aa7daa
-      internalID: -968944334
+      spriteID: 690a809a305b868449a4941daba854ed
+      internalID: 1104312115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_18
+      name: Anim Player Walk_18
       rect:
         serializedVersion: 2
         x: 34
@@ -617,14 +617,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ccc83c4c7aec2342b429ae7af00c7ba
-      internalID: 1176118148
+      spriteID: f2cc947adf6b548419a4451b95315658
+      internalID: 1667653362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_19
+      name: Anim Player Walk_19
       rect:
         serializedVersion: 2
         x: 49
@@ -639,14 +639,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2201b4acb475704ba1eb7820659aaee
-      internalID: 636068559
+      spriteID: 35e5d6fb21e4d9b46a55d3075a9b7d5d
+      internalID: -945012290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_20
+      name: Anim Player Walk_20
       rect:
         serializedVersion: 2
         x: 3
@@ -661,14 +661,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f24ef83e4fd1a7a46b5d274b3ca40d8f
-      internalID: -2030614726
+      spriteID: 0552937b89d95c7409aca10e1d2aa65d
+      internalID: 1862144201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_21
+      name: Anim Player Walk_21
       rect:
         serializedVersion: 2
         x: 19
@@ -683,19 +683,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cfc3a741965f1346b26faa31b08cacd
-      internalID: -1130277355
+      spriteID: 60c4665401f71ce4396833a6f2c6de9f
+      internalID: -543635202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_22
+      name: Anim Player Walk_22
       rect:
         serializedVersion: 2
-        x: 34
+        x: 33
         y: 33
-        width: 11
+        width: 13
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -705,14 +705,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec5a21ab3f5966549a8ce10d79000bff
-      internalID: 2012820063
+      spriteID: 9a7ab83b49a2c4345878576de8dcfc40
+      internalID: -567029914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_23
+      name: Anim Player Walk_23
       rect:
         serializedVersion: 2
         x: 51
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cba19a7d4f27e3847809376a1c24d807
-      internalID: 1370355026
+      spriteID: 8cf8e7f9bb1bd3a4e9ab36bdd22e25a5
+      internalID: 387481080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_24
+      name: Anim Player Walk_24
       rect:
         serializedVersion: 2
         x: 2
@@ -749,14 +749,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53878033b0a59d047a388819dfdaf5c4
-      internalID: 643819564
+      spriteID: dcbeb647797d5ee4e94d7b7731b5448a
+      internalID: 549029259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_25
+      name: Anim Player Walk_25
       rect:
         serializedVersion: 2
         x: 20
@@ -771,14 +771,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e85bca4edc0f1ec49a1621dca8f0f72d
-      internalID: 1689031700
+      spriteID: 42faab6c580c6ba44bf575916dd96762
+      internalID: 1334497859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_26
+      name: Anim Player Walk_26
       rect:
         serializedVersion: 2
         x: 35
@@ -793,14 +793,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f37ea81df38ef6744a6dfc58c3d1c6e0
-      internalID: -796192412
+      spriteID: 25fe4d7de3766c14591f631840c1f4fe
+      internalID: -1585061415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_27
+      name: Anim Player Walk_27
       rect:
         serializedVersion: 2
         x: 52
@@ -815,19 +815,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6766f4db278b1543aaea03cb20de0e5
-      internalID: -1008609052
+      spriteID: e2f2f97d63ecc6b43a8070618f7f5da6
+      internalID: 1423372319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_28
+      name: Anim Player Walk_28
       rect:
         serializedVersion: 2
-        x: 3
+        x: 1
         y: 1
-        width: 11
+        width: 14
         height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -837,14 +837,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4b47e382e360a542a0794bdf9f2a1dd
-      internalID: -1415818197
+      spriteID: ea0b638f182ae7e428a39897a17ca011
+      internalID: -2085654833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_29
+      name: Anim Player Walk_29
       rect:
         serializedVersion: 2
         x: 19
@@ -859,14 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49dae3b802903b2449cfcc21aec2f76a
-      internalID: 745752106
+      spriteID: 0fdc90b8cb0130247ab2a3fdc4a63856
+      internalID: 759930035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_30
+      name: Anim Player Walk_30
       rect:
         serializedVersion: 2
         x: 35
@@ -881,14 +881,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9173a51afac4254db47df01247cacdd
-      internalID: -349983501
+      spriteID: 1757c6f20b2b97e4ba2cbb4dca8a3f01
+      internalID: -1615365706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Anim Player Move_31
+      name: Anim Player Walk_31
       rect:
         serializedVersion: 2
         x: 51
@@ -903,8 +903,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc322366004f815429000803898780db
-      internalID: -54174274
+      spriteID: 32b285792d5334544b894b2336e3f073
+      internalID: 1519426690
       vertices: []
       indices: 
       edges: []
@@ -925,38 +925,38 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Anim Player Move_0: -944056828
-      Anim Player Move_1: -1221091204
-      Anim Player Move_10: -418570597
-      Anim Player Move_11: 214571956
-      Anim Player Move_12: 1779668883
-      Anim Player Move_13: -802098537
-      Anim Player Move_14: 54589632
-      Anim Player Move_15: -1012284191
-      Anim Player Move_16: 2003695526
-      Anim Player Move_17: -968944334
-      Anim Player Move_18: 1176118148
-      Anim Player Move_19: 636068559
-      Anim Player Move_2: 22602092
-      Anim Player Move_20: -2030614726
-      Anim Player Move_21: -1130277355
-      Anim Player Move_22: 2012820063
-      Anim Player Move_23: 1370355026
-      Anim Player Move_24: 643819564
-      Anim Player Move_25: 1689031700
-      Anim Player Move_26: -796192412
-      Anim Player Move_27: -1008609052
-      Anim Player Move_28: -1415818197
-      Anim Player Move_29: 745752106
-      Anim Player Move_3: 1728405673
-      Anim Player Move_30: -349983501
-      Anim Player Move_31: -54174274
-      Anim Player Move_4: 473661696
-      Anim Player Move_5: -832312546
-      Anim Player Move_6: -662226472
-      Anim Player Move_7: 133633847
-      Anim Player Move_8: -5870524
-      Anim Player Move_9: 683220428
+      Anim Player Walk_0: 1045323785
+      Anim Player Walk_1: -599621423
+      Anim Player Walk_10: 1745320316
+      Anim Player Walk_11: -369976427
+      Anim Player Walk_12: -738078739
+      Anim Player Walk_13: 1682157370
+      Anim Player Walk_14: -2144446031
+      Anim Player Walk_15: -932239044
+      Anim Player Walk_16: -1969638404
+      Anim Player Walk_17: 1104312115
+      Anim Player Walk_18: 1667653362
+      Anim Player Walk_19: -945012290
+      Anim Player Walk_2: -1074711796
+      Anim Player Walk_20: 1862144201
+      Anim Player Walk_21: -543635202
+      Anim Player Walk_22: -567029914
+      Anim Player Walk_23: 387481080
+      Anim Player Walk_24: 549029259
+      Anim Player Walk_25: 1334497859
+      Anim Player Walk_26: -1585061415
+      Anim Player Walk_27: 1423372319
+      Anim Player Walk_28: -2085654833
+      Anim Player Walk_29: 759930035
+      Anim Player Walk_3: 439852350
+      Anim Player Walk_30: -1615365706
+      Anim Player Walk_31: 1519426690
+      Anim Player Walk_4: -565049720
+      Anim Player Walk_5: -1045029814
+      Anim Player Walk_6: 719061797
+      Anim Player Walk_7: 1147077155
+      Anim Player Walk_8: 445591906
+      Anim Player Walk_9: -1142486214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
