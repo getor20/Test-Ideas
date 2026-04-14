@@ -15,15 +15,6 @@ public class PlayerInputHandler : MonoBehaviour
 
     public void OnRun(InputAction.CallbackContext context)
     {
-        /*if (context.started)
-        {
-            _playerMover.SetRunning(true);
-        }
-        else if (context.canceled)
-        {
-            _playerMover.SetRunning(false);
-        }*/
-
         _playerMover.SetRunning(context.ReadValueAsButton());
     }
 }

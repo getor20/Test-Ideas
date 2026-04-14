@@ -105,6 +105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c776ca29570fb6041908e116e7452e77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
+  _playerMover: {fileID: 6451876690851567921}
 --- !u!95 &2486432388696711486
 Animator:
   serializedVersion: 7
@@ -326,3 +327,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMover
   _walkSpeed: 5
   _runSpeed: 8
+  _timerDelay: 0.06
