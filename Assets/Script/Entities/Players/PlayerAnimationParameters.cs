@@ -1,4 +1,6 @@
-﻿public static class PlayerAnimationParameters
+﻿using UnityEngine;
+
+public static class PlayerAnimationParameters
 {
 	public const string directionX = "directionX";
 	public const string directionY = "directionY";
