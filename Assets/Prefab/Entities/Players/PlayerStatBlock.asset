@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 57886a6b0a5de464c9419220c6110830, type: 3}
+  m_Script: {fileID: 11500000, guid: 48c6a3bc874c4734faa3f7cadbeb8db2, type: 3}
   m_Name: PlayerStatBlock
   m_EditorClassIdentifier: Assembly-CSharp::PlayerData
   HP: 100

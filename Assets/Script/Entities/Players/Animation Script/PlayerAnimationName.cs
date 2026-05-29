@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public static class PlayerAnimationParameters
+public static class PlayerAnimationName
 {
 	public const string directionX = "directionX";
 	public const string directionY = "directionY";

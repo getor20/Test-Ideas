@@ -18,9 +18,9 @@ public class PlayerAnimator : MonoBehaviour
 
     private void UpdateAnimation()
     {
-        _animator.SetFloat(PlayerAnimationParameters.directionX, _playerMover.DirectionVector.x);
-        _animator.SetFloat(PlayerAnimationParameters.directionY, _playerMover.DirectionVector.y);
-        _animator.SetFloat(PlayerAnimationParameters.speed, _playerMover.CurrentSpeed);
+        _animator.SetFloat(PlayerAnimationName.directionX, _playerMover.DirectionVector.x);
+        _animator.SetFloat(PlayerAnimationName.directionY, _playerMover.DirectionVector.y);
+        _animator.SetFloat(PlayerAnimationName.speed, _playerMover.CurrentSpeed);
 
     }
 }

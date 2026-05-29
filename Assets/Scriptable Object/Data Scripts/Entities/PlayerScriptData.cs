@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [CreateAssetMenu(fileName = "PlayerStatBlock", menuName = "StatBlock/Player Stat Block", order = -1000)]
-public class PlayerData : ScriptableObject
+public class PlayerScriptData : ScriptableObject
 {
     public int HP;
     public int Stamina;
