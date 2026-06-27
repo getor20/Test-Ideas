@@ -143,6 +143,7 @@ GameObject:
   - component: {fileID: 7794907250952165768}
   - component: {fileID: 6451876690851567921}
   - component: {fileID: 4587488466298246035}
+  - component: {fileID: 4347517335322178751}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -313,7 +314,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7ef7b9a5162284ca74cf690fd5c9b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInputHandler
-  _playerMover: {fileID: 6451876690851567921}
 --- !u!114 &6451876690851567921
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -326,8 +326,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: baedbe64036916f449d56e458bd437b5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMover
-  _walkSpeed: 5
-  _runSpeed: 8
   _timerDelay: 0.06
 --- !u!114 &4587488466298246035
 MonoBehaviour:
@@ -342,3 +340,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerStats
   _playerData: {fileID: 11400000, guid: 9af91341b5d2228479c9721263a45c31, type: 2}
+--- !u!114 &4347517335322178751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8623615344214518661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d651aa95693e9a40b69634f19471682, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController

@@ -2,12 +2,9 @@ using UnityEngine;
 
 public class PlayerMover : MonoBehaviour
 {
-    [SerializeField] private float _walkSpeed = 5f;
-    [SerializeField] private float _runSpeed = 8f;
+    [SerializeField] private float _timerDelay; // Задержка таймера
 
-    [SerializeField] private float _timerDelay;
-
-    private Rigidbody2D _rigidBody;
+    private Rigidbody2D _rigidbody;
 
     private Vector2 _mainDirection;
     private Vector2 _angularVector = Vector2.zero;
@@ -15,23 +12,15 @@ public class PlayerMover : MonoBehaviour
     private float _timer;
 
     public Vector2 DirectionVector { get; private set; }
-
-
-
-    public float CurrentSpeed => _rigidBody.linearVelocity.magnitude;
-
-    private bool _isRunning;
-    private bool _isMuving;
-    //public Vector2 CurrentDirection => _direction;
+    public float CurrentSpeed => _rigidbody.linearVelocity.magnitude;
 
     private void Awake()
     {
-        _rigidBody = GetComponent<Rigidbody2D>();
+        _rigidbody = GetComponent<Rigidbody2D>();
     }
 
     private void FixedUpdate()
     {
-        Muve();
         UpdateDirectionVector();
     }
 
@@ -74,39 +63,18 @@ public class PlayerMover : MonoBehaviour
                 DirectionVector = _mainDirection;
                 _angularVector = _mainDirection;
             }
-
-
         }
     }
 
-    public void SetDirection(Vector2 direction)
+    public void Move(Vector2 direction, float speed)
     {
-        if (direction == Vector2.zero)
-        {
-            _isMuving = false;
-        }
-        else
-        {
-            _mainDirection = direction;
-            _isMuving = true;
-        }
-
+        _mainDirection = direction;
+        _rigidbody.linearVelocity = direction * speed;
     }
 
-    public void SetRunning(bool isRunning)
+    public void Stop()
     {
-        _isRunning = isRunning;
-    }
-
-    private void Muve()
-    {
-        if (!_isMuving)
-        {
-            _rigidBody.linearVelocity = Vector2.zero;
-            return;
-        }
-
-        float speed = _isRunning ? _runSpeed : _walkSpeed;
-        _rigidBody.linearVelocity = _mainDirection * speed;
+        _rigidbody.linearVelocity = Vector2.zero;
+        _mainDirection = Vector2.zero;
     }
 }
