@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerStats : MonoBehaviour
 {
-    [SerializeField] private PlayerScriptData _playerData;
+    [SerializeField] private PlayerData _playerData;
 
     public float HP { get; private set; }
     public float Stamina { get; private set; }
